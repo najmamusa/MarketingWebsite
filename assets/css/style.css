@@ -52,7 +52,7 @@ p {
 
 main {
     display:inline-flex;
-    width: 80%;
+    width: 78%;
 
 }
 
@@ -67,7 +67,7 @@ main {
 }
 
 .content {
-    width: 70%;
+    width: 96%;
     display: inline-block;
     margin-left: 20px;
 }
